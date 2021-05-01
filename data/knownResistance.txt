@@ -1,0 +1,21 @@
+Site	Mutation	Citation
+306	Q306H	Byrn 2015
+324	S324I	Byrn 2015
+324	S324N	Byrn 2015
+324	S324R	Byrn 2015
+404	F404Y	Byrn 2015
+510	N510T	Byrn 2015
+324	S324K	Finberg 2019
+325	F325L	Finberg 2019
+337	S337P	Finberg 2019
+376	K376N	Finberg 2019
+376	K376R	Finberg 2019
+378	T378S	Finberg 2019
+510	N510K	Finberg 2019
+323		Finberg 2019
+357		Finberg 2019
+363		Finberg 2019
+378		Finberg 2019
+406		Finberg 2019
+431		Finberg 2019
+

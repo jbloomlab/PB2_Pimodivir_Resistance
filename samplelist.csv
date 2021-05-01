@@ -1,0 +1,10 @@
+sample_condition,replicate,SRAprefix,run
+mutvirus-mock50,rep1,A549-Lib4-mock50,SRR14139037
+mutvirus-mock50,rep2,A549-Lib5-mock50,SRR14139036
+mutvirus-mock50,rep3,A549-Lib6-mock50,SRR14139034
+wtvirus-mock50,,A549-WT-mock50,SRR14139035
+mutvirus-pim-50nM,rep1,A549-Lib4-pim-50nM,SRR14139041
+mutvirus-pim-50nM,rep2,A549-Lib5-pim-50nM,SRR14139040
+mutvirus-pim-50nM,rep3,A549-Lib6-pim-50nM,SRR14139039
+wtvirus-pim-50nM,,A549-WT-pim-50nM,SRR14139038
+DNA-WT,,DNA-WT,SRR14139033

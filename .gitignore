@@ -1,0 +1,15 @@
+.*
+!.gitignore
+*.pyc
+*.out
+fastq
+
+results/*
+
+!results/codoncounts
+results/codoncounts/*
+!results/codoncounts/*codoncounts.csv
+
+!results/diffsel
+results/diffsel/*
+!results/diffsel/*diffsel.csv
