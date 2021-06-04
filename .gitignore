@@ -13,3 +13,5 @@ results/codoncounts/*
 !results/diffsel
 results/diffsel/*
 !results/diffsel/*diffsel.csv
+
+!results/alignments
